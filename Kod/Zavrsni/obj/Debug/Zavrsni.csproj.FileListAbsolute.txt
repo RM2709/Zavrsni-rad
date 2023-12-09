@@ -1,0 +1,12 @@
+C:\Users\Roko\source\repos\Zavrsni\Zavrsni\bin\Debug\Zavrsni.exe.config
+C:\Users\Roko\source\repos\Zavrsni\Zavrsni\bin\Debug\Zavrsni.exe
+C:\Users\Roko\source\repos\Zavrsni\Zavrsni\bin\Debug\Zavrsni.pdb
+C:\Users\Roko\source\repos\Zavrsni\Zavrsni\obj\Debug\Zavrsni.csproj.AssemblyReference.cache
+C:\Users\Roko\source\repos\Zavrsni\Zavrsni\obj\Debug\Zavrsni.Form1.resources
+C:\Users\Roko\source\repos\Zavrsni\Zavrsni\obj\Debug\Zavrsni.FrmDesifriraj.resources
+C:\Users\Roko\source\repos\Zavrsni\Zavrsni\obj\Debug\Zavrsni.Properties.Resources.resources
+C:\Users\Roko\source\repos\Zavrsni\Zavrsni\obj\Debug\Zavrsni.csproj.GenerateResource.cache
+C:\Users\Roko\source\repos\Zavrsni\Zavrsni\obj\Debug\Zavrsni.csproj.CoreCompileInputs.cache
+C:\Users\Roko\source\repos\Zavrsni\Zavrsni\obj\Debug\Zavrsni.exe
+C:\Users\Roko\source\repos\Zavrsni\Zavrsni\obj\Debug\Zavrsni.pdb
+C:\Users\Roko\source\repos\Zavrsni\Zavrsni\obj\Debug\Zavrsni.FrmBruteForce.resources
